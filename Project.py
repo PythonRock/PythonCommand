@@ -8,5 +8,6 @@ print("还包含电影院系统")
 
 print("选座系统")
 
+print("SSH")
 
 print("购票系统")
